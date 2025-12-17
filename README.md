@@ -101,11 +101,11 @@ python ocr_pipeline.py
 - [ ] **Cloud Fallback:** Create a hybrid mode that attempts Tesseract first, but auto-switches to AWS Textract for handwritten documents.
 <br>
 <hr>
-<div align="center">
-  <b>Created by Poorna Chand Ballarapu</b><br>
-  <i>B.A. LL.B. (Hons.) Candidate at NALSAR University of Law</i><br>
-  <i>B.S. in Data Science Candidate at IIT Madras</i>
-</div>
+### 👨‍💻 About the Developer
+Built by **Poorna Chand Ballarapu**, a dual-degree student bridging the gap between Law and Technology.
+* **Law:** 3rd Year B.A. LL.B (Hons) at **NALSAR University of Law**.
+* **Tech:** B.S. in Data Science & Applications at **IIT Madras**.
+* **Focus:** Leveraging Computational Law and NLP to automate complex legal workflows in M&A and Finance.
 
 
 
